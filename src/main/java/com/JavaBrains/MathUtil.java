@@ -15,5 +15,10 @@ public class MathUtil {
 	{
 		return a*b;
 	}
+	
+	public void display()
+	{
+		System.out.println("Added new method for git");
+	}
 
 }
