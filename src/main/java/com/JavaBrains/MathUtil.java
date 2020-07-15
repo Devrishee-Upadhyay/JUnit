@@ -19,7 +19,8 @@ public class MathUtil {
 	public void display()
 	{
 		System.out.println("Added new method for git");
-	        System.out.println("Code Added by other developers");
+	    System.out.println("Code Added by other developers");
+	    System.out.println("Code added by me on second day");
 	}
 
 }
